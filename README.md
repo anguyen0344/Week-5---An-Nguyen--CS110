@@ -38,7 +38,7 @@ Project Evidence
 Links
 
 Working Website:
-https://anguyen0344.github.io/Week-5—An-Nguyen–CS110/week%205/index.html
+https://anguyen0344.github.io/Week-5---An-Nguyen--CS110/week%205/index.html
 
 GitHub Repository:
-https://github.com/anguyen0344/Week-5—An-Nguyen–CS110
+https://github.com/anguyen0344/Week-5---An-Nguyen--CS110
